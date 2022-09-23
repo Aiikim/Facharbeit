@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="Aufgabe3.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="52" Y="19"/>
+        <UsageCount Value="39"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="uaufgabe3main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uAufgabe3MAIN"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="63"/>
+        <CursorPos X="119" Y="87"/>
+        <UsageCount Value="39"/>
+        <Bookmarks Count="2">
+          <Item0 X="58" Y="170" ID="9"/>
+          <Item1 X="22" Y="99" ID="8"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\..\..\Programm_an_sich\lcl\include\control.inc"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="2893"/>
+        <CursorPos Y="2911"/>
+        <UsageCount Value="16"/>
+        <Loaded Value="True"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="uaufgabe3main.pas"/>
+        <Caret Line="77" Column="20" TopLine="60"/>
+      </Position1>
+      <Position2>
+        <Filename Value="uaufgabe3main.pas"/>
+        <Caret Line="87" Column="25" TopLine="69"/>
+      </Position2>
+      <Position3>
+        <Filename Value="uaufgabe3main.pas"/>
+        <Caret Line="132" Column="128" TopLine="108"/>
+      </Position3>
+      <Position4>
+        <Filename Value="uaufgabe3main.pas"/>
+        <Caret Line="56" Column="50" TopLine="53"/>
+      </Position4>
+      <Position5>
+        <Filename Value="uaufgabe3main.pas"/>
+        <Caret Line="76" Column="66" TopLine="41"/>
+      </Position5>
+      <Position6>
+        <Filename Value="uaufgabe3main.pas"/>
+        <Caret Line="102" Column="122" TopLine="75"/>
+      </Position6>
+      <Position7>
+        <Filename Value="uaufgabe3main.pas"/>
+        <Caret Line="109" Column="122" TopLine="77"/>
+      </Position7>
+      <Position8>
+        <Filename Value="uaufgabe3main.pas"/>
+        <Caret Line="99" Column="121" TopLine="77"/>
+      </Position8>
+      <Position9>
+        <Filename Value="uaufgabe3main.pas"/>
+        <Caret Line="91" Column="21" TopLine="66"/>
+      </Position9>
+      <Position10>
+        <Filename Value="uaufgabe3main.pas"/>
+        <Caret Line="100" Column="21" TopLine="66"/>
+      </Position10>
+      <Position11>
+        <Filename Value="uaufgabe3main.pas"/>
+        <Caret Line="99" Column="24" TopLine="78"/>
+      </Position11>
+      <Position12>
+        <Filename Value="uaufgabe3main.pas"/>
+        <Caret Line="101" Column="4" TopLine="68"/>
+      </Position12>
+      <Position13>
+        <Filename Value="uaufgabe3main.pas"/>
+        <Caret Line="107" Column="33" TopLine="75"/>
+      </Position13>
+      <Position14>
+        <Filename Value="uaufgabe3main.pas"/>
+        <Caret Line="106" Column="63" TopLine="87"/>
+      </Position14>
+      <Position15>
+        <Filename Value="uaufgabe3main.pas"/>
+        <Caret Line="99" Column="64" TopLine="74"/>
+      </Position15>
+      <Position16>
+        <Filename Value="uaufgabe3main.pas"/>
+        <Caret Line="98" Column="63" TopLine="79"/>
+      </Position16>
+      <Position17>
+        <Filename Value="uaufgabe3main.pas"/>
+        <Caret Line="104" Column="25" TopLine="79"/>
+      </Position17>
+      <Position18>
+        <Filename Value="uaufgabe3main.pas"/>
+        <Caret Line="98" Column="129" TopLine="79"/>
+      </Position18>
+      <Position19>
+        <Filename Value="uaufgabe3main.pas"/>
+        <Caret Line="97" Column="17" TopLine="79"/>
+      </Position19>
+      <Position20>
+        <Filename Value="uaufgabe3main.pas"/>
+        <Caret Line="98" Column="16" TopLine="78"/>
+      </Position20>
+      <Position21>
+        <Filename Value="uaufgabe3main.pas"/>
+        <Caret Line="106" Column="36" TopLine="92"/>
+      </Position21>
+      <Position22>
+        <Filename Value="uaufgabe3main.pas"/>
+        <Caret Line="172" Column="43" TopLine="142"/>
+      </Position22>
+      <Position23>
+        <Filename Value="uaufgabe3main.pas"/>
+        <Caret Line="175" Column="31" TopLine="143"/>
+      </Position23>
+      <Position24>
+        <Filename Value="uaufgabe3main.pas"/>
+        <Caret Line="206" Column="15" TopLine="174"/>
+      </Position24>
+      <Position25>
+        <Filename Value="uaufgabe3main.pas"/>
+        <Caret Line="46" TopLine="26"/>
+      </Position25>
+      <Position26>
+        <Filename Value="uaufgabe3main.pas"/>
+        <Caret Line="77" Column="23" TopLine="50"/>
+      </Position26>
+      <Position27>
+        <Filename Value="uaufgabe3main.pas"/>
+        <Caret Line="93" Column="27" TopLine="71"/>
+      </Position27>
+      <Position28>
+        <Filename Value="uaufgabe3main.pas"/>
+        <Caret Line="45" Column="23" TopLine="27"/>
+      </Position28>
+      <Position29>
+        <Filename Value="uaufgabe3main.pas"/>
+        <Caret Line="88" Column="92" TopLine="51"/>
+      </Position29>
+      <Position30>
+        <Filename Value="uaufgabe3main.pas"/>
+        <Caret Line="63" Column="53" TopLine="44"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,17 @@
+idHex;idStrich;Pos1 (links oben);Pos2 (links unten);Pos3 (oben);Pos4 (mitte);Pos5 (unten);Pos6 (rechts oben);Pos7 (rechts unten)
+1;6;True;True;True;False;True;True;True
+2;2;False;False;False;False;False;True;True
+3;5;False;True;True;True;True;True;False
+4;5;False;False;True;True;True;True;True
+5;4;True;False;False;True;False;True;True
+6;5;True;False;True;True;True;False;True
+7;6;True;True;True;True;True;False;True
+8;3;False;False;True;False;False;True;True
+9;7;True;True;True;True;True;True;True
+10;6;True;False;True;True;True;True;True
+11;6;True;True;True;True;False;True;True
+12;5;True;True;False;True;True;False;True
+13;4;True;True;True;False;True;False;False
+14;5;False;True;False;True;True;True;True
+15;5;True;True;True;True;True;False;False
+16;4;True;True;True;True;False;False;False
